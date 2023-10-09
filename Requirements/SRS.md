@@ -15,19 +15,19 @@
 
 The main page provides the opportunity for currency conversion and links to all other resource pages
 
-<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80.png" height=400 width=200>
+<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80.png" height=200 width=400>
 
 The page offering the capability to view currency charts for each bank.
 
-<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82.png" height=400 width=200> 
+<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82.png" height=200 width=400> 
 
 The page for currency exchange rates from the National Bank of the Republic of Belarus.
 
-<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%9A%D1%83%D1%80%D1%81%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%20%D0%BF%D0%BE%20%D0%9D%D0%91%20%D0%A0%D0%91.png" height=400 width=200> 
+<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%9A%D1%83%D1%80%D1%81%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%20%D0%BF%D0%BE%20%D0%9D%D0%91%20%D0%A0%D0%91.png" height=200 width=400> 
 
 The page for viewing currency exchange rates of banks in Belarus.
 
-<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%9A%D1%83%D1%80%D1%81%D1%8B%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%20%D0%B2%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B5.png" height=400 width=200>
+<img src="https://github.com/MiklashMark/CurrencyRateMonitor/blob/master/UI/%D0%9A%D1%83%D1%80%D1%81%D1%8B%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%20%D0%B2%20%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B5.png" height=200 width=400>
 
 
 
