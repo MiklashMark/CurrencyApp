@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Графики валют</title>
+	<link rel="stylesheet" href="css/courseGraph.css">
+</head>
+<body>
+	<nav>
+	  <ul>
+	    <li><a href="main.html">Главная</a></li>
+	    <li><a href="courseNBRB.html">Курс валют по НБ РБ</a></li>
+	    <li><a href="courseMinsk.html">Курсы валют в Минске</a></li>
+	    <li><a href="courseGraph.html", class="selected">Графики валют</a></li>
+	  </ul>
+	</nav>
+    <div id="chart"></div>	
+
+    <form id="dateForm">
+      <label for="startDate">Начальная дата:</label>
+      <input type="date" id="startDate" name="startDate">
+      
+      <label for="endDate">Конечная дата:</label>
+      <input type="date" id="endDate" name="endDate">
+      
+      <button type="submit" class="custom-btn btn-16">Обновить график</button>
+    </form>
+
+    <script src="js/courseGraph.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/main.css">
+	<title>Главная</title>
+</head>
+<body>
+	<nav>
+	  <ul>
+	    <li><a href="main.html", class="selected">Главная</a></li>
+	    <li><a href="courseNBRB.html">Курс валют по НБ РБ</a></li>
+	    <li><a href="courseMinsk.html">Курсы валют в Минске</a></li>
+	    <li><a href="courseGraph.html">Графики валют</a></li>
+	  </ul>
+	</nav>
+
+
+    <form>
+        <input type="text" id="firstValue" name="firstValue" class="convertB" placeholder="Введите сумму" required><br>
+
+        <select id="firstCurrency" name="firstCurrency" required>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+            <option value="RUS">RUS</option>
+            <option value="BLR">BLR</option>
+        </select><br>
+
+
+        <select id="secondCurrency" name="secondCurrency" required>
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+            <option value="RUS">RUS</option>
+            <option value="BLR">BLR</option>
+        </select><br>
+
+        <button id="convertBut" type="submit" class="convertB"><img src="img/convert_img2.png" alt="Button Image">
+        </button>
+    </form>
+
+    <div id="resultContainer">
+        <span id="result"></span>
+    </div>
+
+
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script type="text/javascript", src="js/main.js"></script>
+</body>
+</html>

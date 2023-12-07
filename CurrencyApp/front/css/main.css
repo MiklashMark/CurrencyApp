@@ -1,0 +1,136 @@
+
+nav {
+  background-color: #333;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  
+}
+
+nav ul {
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between;
+  list-style: none;
+  margin: auto;
+  padding: 0 1.875em; 
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  color: #fff;
+  display: block;
+  padding: 1.563em; 
+  padding-left: 6.3em; 
+  padding-right: 6.3em; 
+  text-decoration: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+  transform: scale(1);
+  font-size: 18px;
+}
+
+nav a:hover {
+  background-color: #555;
+  border-radius: 10px;
+  transform: scale(1);
+}
+
+nav a.selected {
+  background-color: #555;
+}
+
+#firstCurrency{
+  position: absolute;
+  top: 40%;
+  right: 85.15%;
+  height: 63px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #EAEAEA;
+}
+
+
+
+#secondCurrency{
+  position: absolute;
+  top: 40%;
+  right: 36.9%;
+  height: 63px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #EAEAEA;
+
+}
+
+
+#firstValue{
+  position: absolute;
+  top: 40%;
+  left: 15%;
+  width: 300px;
+  height: 40px;
+  border: 2px solid black;
+  border-radius: 5px;
+  border-right: none;
+  padding: 10px;
+  font-size: 18px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+input.convertB:focus {
+  outline: none;
+}
+
+#resultContainer{
+  position: absolute;
+  top: 40%;
+  right: 15%;
+  width: 300px;
+  height: 40px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+#convertBut{
+  position: absolute;
+  top: 40%;
+  right: 59.3%;
+  height: 63px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+  background-color: #EAEAEA;
+  border-left: none;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  cursor: pointer;
+
+}
+#convertBut img{
+  width: 100%;
+  height: 100%;
+}
+
+.convertB:hover {
+  opacity: 0.7;
+}
+
+
+
